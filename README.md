@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackieTerf
-- 👀 I’m interested in  
+- 👀 I’m interested in Cybersecurity 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - text me
